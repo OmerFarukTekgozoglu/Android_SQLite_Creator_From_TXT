@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android SQLite Creator</string>
+    <string name="btnExecute">View a specific table in the database</string>
+    <string name="btnDeleteDB">Delete all database</string>
+    <string name="btnDownloadDB">Download database from server</string>
+    <string name="btnCreateDB">Create a database</string>
+</resources>
