@@ -34,7 +34,7 @@ public class AccesLayer {
     private Request request;
     private Response response;
     public static final String TAG = "AccesLayer";
-    private static final String URL_DOWNLOAD_LINK = "https://planet.thy.com/mediacontent/content.db";
+    private static final String URL_DOWNLOAD_LINK = "https://....your link adress";
     public AccesLayer(Context context){
         my_db = new DBHelper(context);
         okHttpClient = new OkHttpClient();
