@@ -22,7 +22,7 @@ public class DBHelper extends SQLiteOpenHelper {
     private static final int DB_VERSION = 1;
     private static final String TAG = "DBHelper";
 
-    private final String URL_LINK = "https://planet.thy.com/mediacontent/dbSQLite.txt";
+    private final String URL_LINK = "https://......your link adress";
     private SQLiteDatabase sqLiteDatabase;
 
     private double timeEnd,timeStart,timeResult;
